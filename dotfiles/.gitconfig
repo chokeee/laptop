@@ -1,7 +1,7 @@
 [user]
-	name = Casey Webb
-	email = notcaseywebb@gmail.com
-	signingkey = A81562266B0C8121
+	name = Martin Nemec
+	email = martin.nemec@enrian.com
+	signingkey = 307776DC140C4AD2
 [core]
 	editor = code --new-window --wait
 [commit]
