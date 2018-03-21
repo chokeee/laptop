@@ -109,8 +109,8 @@ cask "whatsapp"
 cask "vmware-fusion"
 
 mas "CopyClip", id: 595191960
-mas "Microsoft Remote Desktop 10", id: 1295203466
+mas "Microsoft Remote Desktop", id: 1295203466
 mas "Xcode", id: 497799835
 mas "Magnet, id: 441258766
-mas "Yoink - Improved Drag and Drop", id: 457622435
-mas "iHex - Hex Editor", id: 909566003
+mas "Yoink", id: 457622435
+mas "iHex", id: 909566003
