@@ -111,6 +111,6 @@ cask "vmware-fusion"
 mas "CopyClip", id: 595191960
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Xcode", id: 497799835
-mas "Magnet, id: 441258766
+mas "Magnet", id: 441258766
 mas "Yoink", id: 457622435
 mas "iHex", id: 909566003
