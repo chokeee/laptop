@@ -11,9 +11,6 @@ Built with:
 
 ### Install
 
-- Fork
-- Change "caseyWebb" to your GitHub username in [`install.sh`](./install.sh)
-- Edit [`dotfiles/.gitconfig`](./dotfiles/.gitconfig)
 - `curl https://raw.githubusercontent.com/chokeee/laptop/master/install.sh | bash`
 
 **NOTE:** No `sudo`
