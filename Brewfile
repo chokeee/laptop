@@ -107,7 +107,7 @@ cask "visual-studio"
 cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
-cask "vmware-fusion"
+cask "vmware-fusion8"
 
 mas "CopyClip", id: 595191960
 mas "Microsoft Remote Desktop", id: 1295203466
