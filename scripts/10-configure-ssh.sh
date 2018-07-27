@@ -1,8 +1,10 @@
 #!/bin/bash
 
-if [ ! -d ~/.ssh/ ] && [ -d /keybase/private/*/ssh/ ]; then
+if [ -d /keybase/private/*/ssh/ ]; then
   echo "Importing ssh key(s) and configuration..."
-  mkdir -p ~/.ssh
+  if [ ! -d ~/.ssh/ ] 
+    mkdir -p ~/.ssh
+  fi
   ln -s /keybase/private/*/ssh/* ~/.ssh
   chmod -R 700 ~/.ssh
 fi
