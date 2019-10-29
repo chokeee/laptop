@@ -166,7 +166,6 @@ mas "Bear", id: 1091189122
 mas "Disk Speed Test", id: 425264550
 mas "Ecosia - The search engine that plants trees", id: 1463400445
 mas "Filemail", id: 1183772244
-mas "Fotor Photo Editor", id: 503039729
 mas "iHex", id: 909566003
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
