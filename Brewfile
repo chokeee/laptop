@@ -163,6 +163,7 @@ cask "winzip"
 cask "wkhtmltopdf"
 cask "zeplin"
 mas "Bear", id: 1091189122
+mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
 mas "Ecosia - The search engine that plants trees", id: 1463400445
 mas "Filemail", id: 1183772244
