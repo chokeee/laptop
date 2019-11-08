@@ -5,7 +5,7 @@ Development (and more) environment setup for MacOS. Automatically syncs to make 
 Built with:
 - [Homebrew][]
 - [Keybase][]
-- [zsh][]
+- [fish][]
 - git
 
 
