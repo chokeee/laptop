@@ -58,5 +58,5 @@ The benefits of storing your keys (encrypted) in the cloud is not only syncing a
 
 [Homebrew]: https://brew.sh/
 [Keybase]: https://keybase.io/
-[zsh]: https://zsh.org
+[fish]: https://fishshell.com
 [screen]: https://www.gnu.org/software/screen/
