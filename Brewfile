@@ -56,7 +56,6 @@ brew "mackup"
 brew "mas"
 brew "openjdk"
 brew "maven"
-brew "micronaut"
 brew "neofetch"
 brew "node"
 brew "nss"
@@ -158,7 +157,6 @@ mas "Bear", id: 1091189122
 mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
-mas "Filemail", id: 1183772244
 mas "iHex", id: 909566003
 mas "iMovie", id: 408981434
 mas "Jira", id: 1475897096
@@ -166,7 +164,6 @@ mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
-mas "Okta Extension App", id: 1439967473
 mas "Pages", id: 409201541
 mas "Speedtest", id: 1153157709
 mas "Termius", id: 1176074088
