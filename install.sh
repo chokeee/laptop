@@ -10,13 +10,13 @@ if ! command -v git > /dev/null 2>&1; then
   yes | brew install git
 fi
 
-if [ ! -d ~/.laptop ]; then
-  git clone https://github.com/chokeee/laptop.git ~/.laptop
+if [ ! -d ~/Documents/.laptop ]; then
+  git clone https://github.com/chokeee/laptop.git ~/Documents/.laptop
 fi
 
-chmod +x ~/.laptop/scripts/*
+chmod +x ~/Documents/.laptop/scripts/*
 
-for s in ~/.laptop/scripts/0*.sh; do source $s; done
-for s in ~/.laptop/scripts/1*.sh; do source $s; done
+for s in ~/Documents/.laptop/scripts/0*.sh; do source $s; done
+for s in ~/Documents/.laptop/scripts/1*.sh; do source $s; done
 
 zsh

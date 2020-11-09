@@ -146,6 +146,7 @@ cask "viscosity"
 cask "visual-studio-code"
 cask "vlc"
 cask "wkhtmltopdf"
+cask "zoomus"
 mas "Bear", id: 1091189122
 mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
