@@ -157,7 +157,10 @@ mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
+mas "Okta Extension App", id: 1439967473
 mas "Pages", id: 409201541
 mas "Speedtest", id: 1153157709
 mas "Termius", id: 1176074088
+mas "Things", id: 904280696
 mas "Xcode", id: 497799835
+mas "Yoink", id: 457622435
