@@ -77,7 +77,6 @@ brew "yarn"
 brew "z"
 brew "zsh"
 cask "1password"
-cask "acronis-true-image"
 cask "adobe-acrobat-reader"
 cask "adoptopenjdk8"
 cask "agenda"
@@ -96,6 +95,7 @@ cask "datovka"
 cask "disk-inventory-x"
 cask "docker"
 cask "dockstation"
+cask "fantastical"
 cask "figma"
 cask "firefox"
 cask "flux"
@@ -133,6 +133,7 @@ cask "secure-pipes"
 cask "sidequest"
 cask "skype"
 cask "slack"
+cask "soapui"
 cask "spotify"
 cask "teamviewer"
 cask "transmission"
@@ -141,6 +142,8 @@ cask "tripmode"
 cask "viscosity"
 cask "visual-studio-code"
 cask "vlc"
+cask "webex-meetings"
+cask "wireshark"
 cask "wkhtmltopdf"
 cask "zoomus"
 mas "Bear", id: 1091189122
@@ -154,10 +157,7 @@ mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
-mas "Okta Extension App", id: 1439967473
 mas "Pages", id: 409201541
 mas "Speedtest", id: 1153157709
 mas "Termius", id: 1176074088
-mas "Things", id: 904280696
 mas "Xcode", id: 497799835
-mas "Yoink", id: 457622435
