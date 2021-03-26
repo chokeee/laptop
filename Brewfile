@@ -145,7 +145,7 @@ cask "vlc"
 cask "webex-meetings"
 cask "wireshark"
 cask "wkhtmltopdf"
-cask "zoomus"
+cask "zoom"
 mas "Bear", id: 1091189122
 mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
