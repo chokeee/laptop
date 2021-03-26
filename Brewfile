@@ -89,6 +89,7 @@ cask "brave-browser"
 cask "charles"
 cask "cheatsheet"
 cask "chromedriver"
+cask "copyclip"
 cask "cyberduck"
 cask "dash"
 cask "datovka"
@@ -147,7 +148,6 @@ cask "wireshark"
 cask "wkhtmltopdf"
 cask "zoom"
 mas "Bear", id: 1091189122
-mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
 mas "Endel", id: 1484348796
