@@ -152,7 +152,6 @@ mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
 mas "Endel", id: 1484348796
 mas "iMovie", id: 408981434
-mas "Jira", id: 1475897096
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
