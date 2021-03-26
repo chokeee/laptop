@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ ! $(brew bundle check) ]]; then
-  cd ~/.laptop
+  cd ~/Documents/.laptop
 
   echo "Restoring homebrew packages from backup"
   brew bundle install
