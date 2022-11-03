@@ -92,6 +92,7 @@ cask "brave-browser"
 cask "charles"
 cask "cheatsheet"
 cask "chromedriver"
+cask "copyclip"
 cask "cyberduck"
 cask "dash"
 cask "datovka"
@@ -156,13 +157,16 @@ cask "wireshark"
 cask "wkhtmltopdf"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
+mas "AdBlock Pro", id: 1018301773
 mas "Bear", id: 1091189122
-mas "CopyClip", id: 1020812363
+mas "Consent-O-Matic", id: 1606897889
 mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
 mas "Endel", id: 1484348796
 mas "GarageBand", id: 682658836
+mas "Hlídač Shopů", id: 1488295734
 mas "iMovie", id: 408981434
+mas "Jira", id: 1475897096
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
@@ -170,7 +174,9 @@ mas "Numbers", id: 409203825
 mas "Okta Extension App", id: 1439967473
 mas "Pages", id: 409201541
 mas "Speedtest", id: 1153157709
+mas "Super Agent", id: 1568262835
 mas "Termius", id: 1176074088
+mas "TestFlight", id: 899247664
 mas "Things", id: 904280696
 mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
