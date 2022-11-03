@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Symlinking mackup..."
-ln -s ~/iCloud/.storage/.mackup.cfg ~/.mackup.cfg
-ln -s ~/iCloud/.storage/.mackup ~/.mackup
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Mackup/.mackup.cfg ~/.mackup.cfg
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Mackup/.mackup ~/.mackup
 
 echo "Restoring mackup..."
 mackup restore
