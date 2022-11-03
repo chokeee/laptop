@@ -92,7 +92,6 @@ cask "brave-browser"
 cask "charles"
 cask "cheatsheet"
 cask "chromedriver"
-cask "copyclip"
 cask "cyberduck"
 cask "dash"
 cask "datovka"
@@ -158,12 +157,12 @@ cask "wkhtmltopdf"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
 mas "Bear", id: 1091189122
+mas "CopyClip", id: 1020812363
 mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
 mas "Endel", id: 1484348796
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
-mas "Jira", id: 1475897096
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
