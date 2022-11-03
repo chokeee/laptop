@@ -1,5 +1,7 @@
 #!/bin/bash
 
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
+
 if ! command -v brew > /dev/null 2>&1; then
   echo "Installing homebrew"
   yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
