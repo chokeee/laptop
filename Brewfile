@@ -95,7 +95,6 @@ cask "1password"
 cask "alfred"
 cask "arc"
 cask "arq"
-cask "azure-data-studio"
 cask "bartender"
 cask "brave-browser"
 cask "browserstacklocal"
@@ -129,12 +128,10 @@ cask "imageoptim"
 cask "istat-menus"
 cask "iterm2"
 cask "jetbrains-toolbox"
-cask "keepassxc"
 cask "keka"
 cask "keystore-explorer"
 cask "lens"
 cask "macfuse"
-cask "macpass"
 cask "mark-text"
 cask "microsoft-auto-update"
 cask "microsoft-azure-storage-explorer"
@@ -167,29 +164,34 @@ cask "wireshark"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
 mas "AdBlock Pro", id: 1018301773
+mas "Agenda", id: 1287445660
 mas "Bear", id: 1091189122
-mas "Consent-O-Matic", id: 1606897889
+mas "Crystal Report Viewer", id: 1424817244
 mas "Disk Speed Test", id: 425264550
 mas "Dynamo", id: 1445910651
-mas "Endel", id: 1484348796
+mas "Endel", id: 1346247457
 mas "GarageBand", id: 682658836
-mas "Hlídač Shopů", id: 1488295734
+mas "Hlídač Shopů", id: 1488295734
 mas "iMovie", id: 408981434
 mas "Jira", id: 1475897096
 mas "Keynote", id: 409183694
+mas "Lattics", id: 1575605022
 mas "Magnet", id: 441258766
+mas "Mic Drop", id: 1489816366
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "Okta Extension App", id: 1439967473
 mas "Pages", id: 409201541
 mas "Prime Video", id: 545519333
+mas "Read CHM", id: 594432954
+mas "reMarkable", id: 1276493162
 mas "Speedtest", id: 1153157709
 mas "Super Agent", id: 1568262835
-mas "Termius", id: 1176074088
 mas "TestFlight", id: 899247664
 mas "Things", id: 904280696
 mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
+mas "Yubico Authenticator", id: 1497506650
 vscode "42crunch.vscode-openapi"
 vscode "4ops.terraform"
 vscode "donjayamanne.githistory"
